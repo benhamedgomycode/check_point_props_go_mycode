@@ -1,0 +1,19 @@
+.Details {
+  display: flex;
+  justify-content: space-around;
+  line-height: 38px;
+  font-weight: 700;
+  margin-top: 6%;
+}
+.about {
+  background: white;
+  width: 50%;
+  padding: 1%;
+  border-radius: 15px;
+}
+.title {
+  color: #34495e;
+}
+hr {
+  border-width: 1.5px;
+}
